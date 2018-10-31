@@ -85,7 +85,7 @@ Are you ready to jump with Excello? Here's the steps you should follow to work w
 
 ### Support
 
-Need a hand with something? Send us an email to [mail id] and we'll get back to you right away!
+Need a hand with something? Send us an email to [Our Contact](https://vuejsadmin.com/contact/) and we'll get back to you right away!
 
 ### License
 
