@@ -4,7 +4,7 @@ Are you planning to build your Dashboard Template from Scratch? Believe me, this
 Excello is very modern and analytics dashboard. It covers most common aspects and layout configuration that generally you need to built your App.
 
 ### Preview Screenshot 
-![excello bootstrap Template for Free use. Arrange your Dashboard easily.](https://VueJS Admin.com/wp-content/uploads/2018/10/Excello-Preview.png)
+![excello bootstrap Template for Free use. Arrange your Dashboard easily.](https://vuejsadmin.com/wp-content/uploads/2018/10/Excello-Preview.png)
 ### Table Of Contents
 - [How To Use](#how-to-use)
 - [Built with](#built-with)
@@ -81,7 +81,7 @@ Are you ready to jump with Excello? Here's the steps you should follow to work w
 #### V 1.0.0 Initial Release
 
 ### Authors
-[VueJS Admin](https://VueJS Admin.com/)
+[VueJS Admin](https://vuejsadmin.com/)
 
 ### Support
 
